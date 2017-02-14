@@ -8,7 +8,8 @@ New to  Git & GitHub [Try Git](https://try.github.io/levels/1/challenges/1) this
 
 
 To Work with the ATLPUG Git Repository you will need to Clone or Download the Repository  
-While it is not a requirement it is highly recommended you get a Git Client A really good one Is GitKraken You can download here https://www.gitkraken.com/download
+While it is not a requirement it is highly recommended you get a Git Client.  
+A really good one Is GitKraken You can download here [GitKraken Download](https://www.gitkraken.com/download)
 
 Major concepts
 
