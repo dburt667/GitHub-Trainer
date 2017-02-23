@@ -4,7 +4,9 @@ Repository to practice GitHub
 
 New to  Git & GitHub [Try Git](https://try.github.io/levels/1/challenges/1) this tutorial is a quick introduction to Git  
 
-[Github main help page](https://help.github.com/)
+[Github main help page](https://help.github.com/)  
+
+[Github learning resources page](https://help.github.com/articles/git-and-github-learning-resources/)
 
 * [Original Git](https://git-scm.com/)
 
@@ -20,3 +22,8 @@ Major concepts
 * [About collaborative development models](https://help.github.com/articles/about-collaborative-development-models/)
 * [Collaborating with Issues & Pull Requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)
   1. [About Pull requests](https://help.github.com/articles/about-pull-requests/)
+* [Ignoring files](https://help.github.com/articles/ignoring-files/)  
+
+Oops!  
+
+* [Removing sensitive information](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
