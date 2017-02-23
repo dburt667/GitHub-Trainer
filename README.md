@@ -2,7 +2,9 @@
 Repository to practice GitHub 
 
 
-New to  Git & GitHub [Try Git](https://try.github.io/levels/1/challenges/1) this tutorial is a quick introduction to Git
+New to  Git & GitHub [Try Git](https://try.github.io/levels/1/challenges/1) this tutorial is a quick introduction to Git  
+
+[Github main help page](https://help.github.com/)
 
 * [Original Git](https://git-scm.com/)
 
