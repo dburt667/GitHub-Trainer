@@ -27,3 +27,7 @@ Major concepts
 Oops!  
 
 * [Removing sensitive information](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
+
+Writing on Github
+[Get Started writing on GitHub]https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
+
